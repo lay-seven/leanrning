@@ -2,7 +2,6 @@
 
 ## 脚手架文件结构
 
-更改
 	├── node_modules 
 	├── public
 	│   ├── favicon.ico: 页签图标
